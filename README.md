@@ -6,6 +6,7 @@ A music and space fanatic
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth11010&layout=compact&theme=tokyonight)](https://github.com/siddharth11010)
 
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/siddharth11010)
 <p>
  <img src="https://komarev.com/ghpvc/?username=siddharth11010&style=round-square"/>
 </p>
