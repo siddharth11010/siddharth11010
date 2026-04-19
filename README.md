@@ -1,9 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Siddharth 👋
+A music and space fanatic
+
+### My GitHub Analytics
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth11010&show_icons=true&theme=tokyonight)](https://github.com/siddharth11010)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth11010&layout=compact&theme=tokyonight)](https://github.com/siddharth11010)
+
+<p>
+ <img src="https://komarev.com/ghpvc/?username=siddharth11010&style=round-square"/>
+</p>
 
 <!--
-**siddharth11010/siddharth11010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
