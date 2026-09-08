@@ -24,7 +24,7 @@ module siddharth_bhole (
 );
 
   parameter NAME          = "Siddharth Bhole";
-  parameter DEGREE      = "B.E. – Electronics & Telecommunication (PICT)";
+  parameter DEGREE        = "B.E. – Electronics & Telecommunication (PICT)";
   parameter LOCATION      = "Pune, Maharashtra, India";
 
   parameter CORE_FOCUS    = "Embedded Systems | VLSI Design | Firmware Architecture";
