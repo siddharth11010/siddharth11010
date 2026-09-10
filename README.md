@@ -24,13 +24,9 @@ module siddharth_bhole (
 );
 
   parameter NAME          = "Siddharth Bhole";
-  parameter DEGREE        = "B.E. – Electronics & Telecommunication (PICT)";
-  parameter LOCATION      = "Pune, Maharashtra, India";
 
   parameter CORE_FOCUS    = "Embedded Systems | VLSI Design | Firmware Architecture";
-  parameter INTERN_ROLE   = "IoT Systems Engineering Intern @ Athang Robotics";
-  parameter TOOLCHAIN     = "ESP32 | FreeRTOS | Cadence Virtuoso | Vivado | C++ | Verilog";
-  parameter PUBLICATIONS  = "P.I.N.G. & TECHNOVATE Magazines";
+  parameter TOOLCHAIN     = "ESP32 | FreeRTOS | Cadence Virtuoso | Vivado | C++ | System Verilog";
 
   always @(posedge clock_cycle) begin
     if (curiosity)
@@ -163,12 +159,6 @@ Collaborative 4-member robotics project featuring custom stepper motor navigatio
 [![GitHub Streak](https://streak-stats.demolab.com?user=siddharth11010&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🎓 Education
-
-* **B.E. in Electronics and Telecommunication Engineering** — *Pune Institute of Computer Technology (PICT)* `[2023 – 2027]`
 
 ---
 
